@@ -16,6 +16,5 @@ public class Aula05 {
         else {
         System.out.println("string1 é igual a string2");
         }
-        System.out.println("");
     }
 }
