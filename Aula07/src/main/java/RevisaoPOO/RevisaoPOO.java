@@ -8,7 +8,7 @@ public class RevisaoPOO {
         gestor.setNome("João da Silva");
         gestor.setSalario(30000.0);
         System.out.println(gestor.getNome());
-        System.out.println(gestor.Bonificacao());
+        System.out.println(gestor.getBonificacaoG());
         
     }
 }
