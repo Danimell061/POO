@@ -1,5 +1,5 @@
 package Modelo;
 
-public class Gerente Extend Funcionario {
-    
+public class Gerente extends Funcionario {
+   
 }
